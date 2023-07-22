@@ -30,3 +30,6 @@ Whether you are a researcher, academic, or student, the "Academic Writing Templa
 - [ ] Add a section on how to use BibTeX
 - [ ] Add a section on how to use the template with Overleaf
 
+## License
+
+The "Academic Writing Template" repository is licensed under the [MIT License](LICENSE).
