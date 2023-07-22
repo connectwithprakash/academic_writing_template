@@ -21,3 +21,12 @@ The "Academic Writing Template" repository is a versatile LaTeX template designe
 Whether you are a researcher, academic, or student, the "Academic Writing Template" repository provides a valuable resource for creating polished and professional academic papers. It simplifies the writing process, saves time on formatting, and ensures consistency across various types of academic documents. Whether you are working on a research project, preparing for a conference presentation, or completing a thesis or dissertation, this template is an excellent starting point for producing high-quality academic work.
 
 
+## TODO:
+
+- [ ] Add a section on how to use the template
+- [ ] Add a section on how to customize the template
+- [ ] Add a section on how to compile the template
+- [ ] Add a section on how to use Git version control
+- [ ] Add a section on how to use BibTeX
+- [ ] Add a section on how to use the template with Overleaf
+
